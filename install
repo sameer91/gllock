@@ -1,0 +1,10 @@
+#!/bin/sh
+
+DEST=~/bin/gllock
+
+make
+sudo chown root: gllock
+sudo chmod u+s gllock
+mv gllock $DEST
+
+
