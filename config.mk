@@ -7,8 +7,8 @@ VERSION = 0.1-alpha
 SHADER_LOCATION = $(HOME)/.gllock
 
 # shader
- FRGMNT_SHADER = circle.fragment.glsl
-#FRGMNT_SHADER = square.fragment.glsl
+#FRGMNT_SHADER = circle.fragment.glsl
+ FRGMNT_SHADER = square.fragment.glsl
 #FRGMNT_SHADER = glitch.fragment.glsl
 #FRGMNT_SHADER = ascii.fragment.glsl
 #FRGMNT_SHADER = crt.fragment.glsl
