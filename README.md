@@ -1,3 +1,4 @@
+## This is NOT My project just forked it so I dont have to find it again.
 # gllock
 OpenGL extension to the simple screen locker [slock](http://github.com/anekos/slock)
 
@@ -12,7 +13,7 @@ In order to build gllock you need the following packages:
 
 The other requirement will be fulfilled automatically when installing the above.
 
-## Installation
+# Installation
 Edit `config.mk` to match your local setup (**gllock** is installed into the `/usr/local` namespace by default).
 
 - `SHADER_LOCATION` - location of the shader files (default `~/.gllock/` which is a symlink to the shader folder of the repository)
